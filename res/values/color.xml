@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#0000ff</color>
+    <color name="c3fe0fd">#3fe0fd</color>
+    <color name="c0">#000000</color>
+    <color name="c2">#222222</color>
+    <color name="c3">#333333</color>
+    <color name="c4">#444444</color>
+    <color name="c5">#555555</color>
+    <color name="c6">#666666</color>
+    <color name="c7">#777777</color>
+    <color name="c8">#888888</color>
+    <color name="c9">#999999</color>
+    <color name="ca">#aaaaaa</color>
+    <color name="cb">#bbbbbb</color>
+</resources>
